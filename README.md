@@ -1,6 +1,10 @@
 # Group 4 - Train Reservation Management System
 
-Kody Anderson [GitHub](https://github.com/KodyAnderson1) | Andrew Rabinowitz [GitHub](https://github.com/AndrewR68) | Dillon Vaughan [GitHub](https://github.com/DillonV44) | Chase Sisson [GitHub](https://github.com/chase66group6) | Anthony Welter [GitHub](https://github.com/alw64)
+Kody Anderson [GitHub](https://github.com/KodyAnderson1) 
+Andrew Rabinowitz [GitHub](https://github.com/AndrewR68)
+Dillon Vaughan [GitHub](https://github.com/DillonV44)
+Chase Sisson [GitHub](https://github.com/chase66group6)
+Anthony Welter [GitHub](https://github.com/alw64)
 
 ## Basic Design
 
