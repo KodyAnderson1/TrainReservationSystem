@@ -8,7 +8,7 @@
 
 ## Basic Design
 
-The user interacts with a GUI to purchase a ticket / reservation for a train ride, either a specific trip, or to use a specific number of miles within a set number of days.
+The user interacts with a Java Swing GUI to purchase a ticket / reservation for a train ride, either a specific trip, or to use a specific number of miles within a set number of days.
 With program completion, the user will be able to either create an account, or sign in with an existing one to complete their transaction and view past and current transactions.
 
 ## How to Install
