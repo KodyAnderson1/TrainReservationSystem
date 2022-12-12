@@ -1,4 +1,4 @@
-# Group 4 - Train Reservation Management System
+# Train Reservation Management System
 
 [Kody Anderson](https://github.com/KodyAnderson1) | 
 [Andrew Rabinowitz](https://github.com/AndrewR68) | 
